@@ -1,0 +1,55 @@
+commit b12e08fd03c11fff26e229ffb9f542af4ba499ce
+Merge: f2fdd2a feee172
+Author: Alex Brashear <alexjbrashear@gmail.com>
+Date:   Wed Oct 22 02:30:16 2014 -0400
+
+    conflict resolved
+
+commit feee1722c0a3625c7b6ba9ed9f9827754c62dc92
+Author: Alex Brashear <alexjbrashear@gmail.com>
+Date:   Wed Oct 22 02:29:21 2014 -0400
+
+    ll
+
+commit f2fdd2aa98a1009d14f5c94578268d6e1eb10e6f
+Author: Alex Brashear <alexjbrashear@gmail.com>
+Date:   Wed Oct 22 02:28:58 2014 -0400
+
+    this
+
+commit 9b7dd0873b3a4913e84e337dc7dce805ef2d3e32
+Merge: 54cf204 3a78358
+Author: Alex Brashear <alexjbrashear@gmail.com>
+Date:   Wed Oct 22 02:27:46 2014 -0400
+
+    Merge branch 'conflict' into develop
+
+commit 54cf204bc2dcf495fa3f091b8c0220f931380327
+Author: Alex Brashear <alexjbrashear@gmail.com>
+Date:   Wed Oct 22 02:26:45 2014 -0400
+
+    asdf
+
+commit 3a7835821f64e61982e392da42aac8257c7cf644
+Author: Alex Brashear <alexjbrashear@gmail.com>
+Date:   Wed Oct 22 02:25:57 2014 -0400
+
+    updated README
+
+commit 5b45ea0edef14c0194435b9cc734c129acca9f01
+Author: Alex Brashear <alexjbrashear@gmail.com>
+Date:   Wed Oct 22 02:24:07 2014 -0400
+
+    updated README
+
+commit b18de82768fb8ddb5a666aad6321931814abe6e8
+Author: Alex Brashear <alexjbrashear@gmail.com>
+Date:   Wed Oct 22 02:22:31 2014 -0400
+
+    initial commit
+
+commit a47b9ad1ae13e29a1f7b4b43d33e8757e319ac2f
+Author: Alex Brashear <alexjbrashear@gmail.com>
+Date:   Wed Oct 22 02:18:50 2014 -0400
+
+    Initial commit
